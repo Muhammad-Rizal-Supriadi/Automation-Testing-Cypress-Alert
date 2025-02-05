@@ -1,0 +1,17 @@
+{
+  "name": "cypress-automation-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress-open": "npx cypress open",
+    "cypress-run": "npx cypress run --headed"
+
+  },
+  "author": "Muhammad Rizal Supriadi",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^14.0.1"
+  }
+}
